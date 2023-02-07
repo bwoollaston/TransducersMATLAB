@@ -11,7 +11,7 @@ for i=1:51
     t = t+1;
 end
 
-title('');
+title('Position vs. Time for Simple Harmonic Oscillator');
 xlabel('Time [seconds]');
 ylabel('');
 plot(T,val);
