@@ -13,7 +13,7 @@ end
 
 title('Position vs. Time for Simple Harmonic Oscillator');
 xlabel('Time [seconds]');
-ylabel('');
+ylabel('Position [units]');
 plot(T,val);
 
 
