@@ -11,9 +11,9 @@ for i=1:51
     t = t+1;
 end
 
-title('Position vs. Time for Simple Harmonic Oscillator');
+title('X vs Time for SHO');
 xlabel('Time [seconds]');
-ylabel('Position [units]');
+ylabel('x [units]');
 plot(T,val);
 
 
