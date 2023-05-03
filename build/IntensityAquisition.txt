@@ -1,0 +1,1 @@
+[IntensityAquisition]server.app.propertiesEnabled=Trueserver.ole.enabled=Trueserver.tcp.serviceName="MyComputer/VIServer"server.vi.propertiesEnabled=TrueWebServer.TcpAccess="c+*"WebServer.ViAccess="+*"DebugServerEnabled=FalseDebugServerWaitOnLaunch=False[controls]ctr=hellopfi=?ao=worldai=inititalizesamples=3ramp0=537ramp1=55ramp2=3
